@@ -13,15 +13,20 @@
   },
   "dependencies": {
     "@libsql/client": "^0.10.0",
+    "@radix-ui/react-slot": "^1.1.1",
     "@tanstack/react-query": "^5.52.2",
     "@tanstack/react-query-devtools": "^5.52.2",
     "better-sqlite3": "^11.2.1",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
     "drizzle-orm": "^0.33.0",
+    "lucide-react": "^0.474.0",
     "next": "14.2.7",
     "next-themes": "^0.3.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "tailwind-merge": "^2.6.0"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.11",
